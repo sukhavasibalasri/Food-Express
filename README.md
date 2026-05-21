@@ -6,7 +6,7 @@ This project demonstrates DOM manipulation, responsive UI design, and interactiv
 # **Features**
 📋 Browse food menu items 🍕 Filter foods by category (Pizza, Burger, Pasta, Salad, Dessert) 🛒 Add items to cart ✅ Button changes to "Added to Cart" with green color ➕ Increase / ➖ decrease item quantity 🗑 Remove items from cart 💰 Automatic total price calculation 🛍 Cart modal popup 📱 Responsive design for mobile devices 🔄 Buttons reset after checkout
 
-# ** 🛠 Technologies Used**
+# **🛠 Technologies Used**
 HTML5 – Structure of the application CSS3 – Styling and responsive design JavaScript (Vanilla JS) – Dynamic functionality and DOM manipulation Bootstrap - interactive UI sections Font Awesome – Icons
 
  # **📂 Project Structure**
@@ -34,7 +34,7 @@ https://foodxpress-a-online-food-ordering-website.onrender.com
 //About us & Contact page image
 <img width="1042" height="428" alt="image" src="https://github.com/user-attachments/assets/22e235cb-cfec-42d2-b2e5-085c60c0105d" />
 
-//Cart image
+
 <img width="612" height="605" alt="image" src="https://github.com/user-attachments/assets/e2773d8a-f73c-4976-b0eb-fb0f2c5b0fea" />
 
 # **🎯 Learning Outcomes**
